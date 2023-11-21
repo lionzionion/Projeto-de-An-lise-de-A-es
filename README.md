@@ -10,7 +10,6 @@ Download do Código:
 
 Clone este repositório para sua máquina local.
 bash
-Copy code
 git clone https://github.com/seuusuario/seuprojeto.git
 Instalação das Dependências:
 
